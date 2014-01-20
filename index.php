@@ -1,12 +1,8 @@
 <?php
 
-/*
-Template Name: Home
- */
- 
 get_header(); 
 
-?>
+?> 
 <section class="wbase">
     
     <section class="posts">
