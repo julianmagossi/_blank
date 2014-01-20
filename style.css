@@ -1,0 +1,21 @@
+/*
+Theme Name: _blank
+Description: Tema simples para desenvolvedores de Wordpress
+Author: Julian Magossi
+Author URI: http://julianmagossi.com.br
+Tags: dev theme, tema para desenvolvedores, simples, simple,  CSS válido, valid CSS,  XHTML válido, valid XHTML, branco, bla
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.2
+*/
+
+/* Geral */
+
+*{padding:0; margin:0; border: none; list-style: none; text-decoration: none;}
+
+.wbase{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+/* */
