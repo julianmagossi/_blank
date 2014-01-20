@@ -9,13 +9,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 1.2
 */
 
-/* Geral */
+/* Reset */
 
 *{padding:0; margin:0; border: none; list-style: none; text-decoration: none;}
+
+/* Geral */
 
 .wbase{
 	width: 1000px;
 	margin: 0 auto;
 }
 
-/* */
+/* Outros */
